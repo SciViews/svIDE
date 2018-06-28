@@ -1,8 +1,8 @@
 Package: svIDE
 Type: Package
-Version: 0.9-53
-Date: 2015-06-27
-Title: SciViews GUI API - IDE and code editor functions
+Version: 0.9-54
+Date: 2018-06-28
+Title: Functions to Ease Interactions Between R and IDEs or Code Editors
 Author: Philippe Grosjean [aut, cre]
 Authors@R: c(person("Philippe", "Grosjean", role = c("aut", "cre"),
   email = "phgrosjean@sciviews.org"))

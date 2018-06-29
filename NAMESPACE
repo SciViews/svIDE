@@ -1,4 +1,7 @@
 importFrom(utils, "find", "lsf.str", "unzip", "write.table")
+if(.Platform$OS.type == "windows") {
+  importFrom(utils, "writeClipboard")
+}
 importFrom(tcltk, ".Tcl", ".Tcl.args", "tclRequire", "tclvalue")
 importFrom(svMisc, "callTip", "completion")
 importFrom(XML, "addAttributes" ,"saveXML", "xmlGetAttr", "xmlName", "xmlRoot",

@@ -3,7 +3,7 @@
 \alias{svIDE}
 \docType{package}
 
-\title{ SciViews GUI API - IDE and code editor functions }
+\title{ Functions to Ease Interactions Between R and IDE or Code Editors }
 \description{
   Function for the GUI API to interact with external IDE/code editors.
 }
